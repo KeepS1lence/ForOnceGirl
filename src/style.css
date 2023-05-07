@@ -1,0 +1,23 @@
+body{    
+  background-image:url("https://cs10.pikabu.ru/post_img/big/2018/10/09/9/1539097498184512145.jpg");
+}
+h1, h2, h3, h4{
+  text-align:center;
+  color:MediumVioletRed;
+  font-family:monospace;  
+}
+.flex{
+  display:flex; 
+  justify-content:center;
+}
+.flex1{
+  display:flex;
+  justify-content:flex-start;  
+}
+.forBorders{
+  border: 3px solid DeepPink;  
+}
+.hh{
+  color:black;
+  font-family: segoe print;
+}
